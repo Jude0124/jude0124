@@ -1,5 +1,7 @@
 ## Hello There👋 Back-end Developer , Jude 😋
 
+I'm interested in git-flow, agile, OOP, TDD
+
 ## 📱Contact
 
 
