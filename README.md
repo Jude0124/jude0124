@@ -35,7 +35,7 @@
 
 <br>
   
-###🎯Stats
+## 🎯Stats
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jude0124)](https://github.com/jude0124/github-readme-stats)
   
