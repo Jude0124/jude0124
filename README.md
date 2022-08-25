@@ -1,10 +1,8 @@
 ## Hello I'm Jungheon👨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jude0124)](https://github.com/jude0124/github-readme-stats)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJude0124&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<div align=left><h2>📚 Tech Stack 📚</h2></div>
+<div align=left><h2>📚Stack</h2></div>
 
 <div align=left>
   <br>
@@ -34,7 +32,11 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=gitlab&logoColor=white">
 <br>
   
-<div align=center><h2>✨ Git Stats ✨</div>
+<div align=center><h2>🎯Stats</div>
   
 <div style= align: center; width: 50%; height: 50%;>
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jude0124)](https://github.com/jude0124/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJude0124&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  </div>
+
