@@ -51,7 +51,7 @@ I'm interested in git-flow, agile, OOP, TDD
   ### IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Pycharm](https://img.shields.io/badge/pycharm-3ee08f?style=for-the-badge&logo=&logoColor=white)
+![Pycharm](https://img.shields.io/badge/pycharm-3ee08f?style=for-the-badge&logo=pycharm&logoColor=white)
 
 <br>
   
