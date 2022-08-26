@@ -4,8 +4,11 @@ I'm interested in git-flow, agile, OOP, TDD
 
 ## 📱Contact
 
+<p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJude0124&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="mailto:legagain@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kjh8673a@gmail.com"/></a>&nbsp
+<a href="https://velog.io/@jude0124"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jude0124"/></a>&nbsp -->
+</p>
 
 
 ## 📚Stack
@@ -55,4 +58,7 @@ I'm interested in git-flow, agile, OOP, TDD
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jude0124)](https://github.com/jude0124/github-readme-stats)
   
 <br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJude0124&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
