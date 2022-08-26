@@ -6,8 +6,10 @@ I'm interested in git-flow, agile, OOP, TDD
 
 <p>
 
-  <a href="mailto:legagain@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kjh8673a@gmail.com"/></a>&nbsp
-<a href="https://velog.io/@jude0124"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jude0124"/></a>&nbsp -->
+<a href="mailto:legagain@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kjh8673a@gmail.com"/></a>
+  
+<a href="https://velog.io/@jude0124"><img src="https://img.shields.io/badge/velog-03C75A?style=flat-square&logo=velog&logoColor=black&link=https://velog.io/@jude0124"/></a>
+  
 </p>
 
 
